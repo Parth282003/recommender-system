@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: src
+Version: 0.0.1
+Summary: A small package for Movie Recommender System
+Home-page: https://github.com/Parth282003/Books-Recommender-System-Using-Machine-Learning
+Author: Parth282003
+Author-email: parthsk2003@gmail.com
+Requires-Python: >=3.13.1
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+Books-Recommender-System-Using-Machine-Learning
